@@ -1,2 +1,0 @@
-# MyCase
-Android app development
